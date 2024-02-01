@@ -4,7 +4,7 @@ The Student Management System is a software application designed to streamline a
 
 ## Features
 
-- **Student Information Management**: Store and manage information about individual students, including their name, email address, birthdate, and address.
+- **Student Information Management**: Store and manage information about individual students, including their name, birthdate, and address.
 - **Course Management**: Create and manage courses offered by the institution, including details such as course name and description.
 - **Enrollment Management**: Record and manage student enrollments in specific courses, including enrollment dates.
 - **Grade Recording**: Record and manage grades achieved by students in their enrolled courses.
